@@ -1,1 +1,7 @@
-{"name":"github.blairmacintyre.me","tagline":"My github home","body":"### Blair MacIntyre's Github pages.\r\n\r\nI have some personal pages here.  Georgia Tech has an enterprise Github server, where we keep most of our work.  My lab (@aetatgt) also has a set of public repositories here.\r\n\r\n### Contact\r\nMy home webpage is at http://blairmacintyre.me or contact me via my Georgia Tech email at blair@cc.gatech.edu\r\n","google":"UA-44001333-1","note":"Don't delete this file! It's used internally to help with page regeneration."}
+{
+  "name": "Blair MacIntyre's GitHub",
+  "tagline": "personal, mozilla and georgia tech projects",
+  "body": "### Blair MacIntyre's Github Repositories\r\n\r\nI have some personal pages here, as well as projects I'm doing professionally, including projects at both Mozilla and Georgia Tech.\r\n\r\nGeorgia Tech has an enterprise Github server, where we keep most of our work, but I try to keep things I want to share with the world here.  My lab has a set of public repositories at @aelatgt and the Argon Project repositories are at @argonjs.\r\n\r\n### Contact\r\nMy home webpage is at http://blairmacintyre.me\r\n\r\nYou may contact me via email at either Mozilla (bmacintyre@mozilla.com) or Georgia Tech (blair@cc.gatech.edu)\r\n",
+  "google": "UA-44001333-1",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
